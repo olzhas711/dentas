@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Замените адрес на свой после публикации -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.github.io/dentas/</loc><priority>1.0</priority></url>
+  <url><loc>https://example.github.io/dentas/uslugi.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/napravlenie.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/vrachi.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/o-klinike.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/otzyvy.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/akcii.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/kontakty.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/zapis.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/spasibo.html</loc><priority>0.8</priority></url>
+  <url><loc>https://example.github.io/dentas/politika.html</loc><priority>0.8</priority></url>
+</urlset>
